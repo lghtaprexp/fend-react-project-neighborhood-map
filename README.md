@@ -45,3 +45,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Resources
 https://www.npmjs.com/package/google-maps-react
+https://developer.foursquare.com/docs/api/configuration/authentication
+https://developer.foursquare.com/docs/api/venues/search
+https://github.com/foursquare/react-foursquare
