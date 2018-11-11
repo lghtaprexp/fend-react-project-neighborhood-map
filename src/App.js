@@ -19,23 +19,15 @@ class App extends Component {
 
   componentDidMount() {
     SquareApi.search({
-      near: "Austin,TX",
-      query: "tacos",
-      limit: 5
+      near: "Simi Valley,CA",
+      query: "thai cottage",
+      limit: 10
     })
     .then(results => {
-      const {places} = results.response;
-      const {center} = results.response.geocode.feature.geometry;
-      const markers = places.map(v => {
-        return {
-          lat: v.location.lat,
-          lng: v.location.lng,
-          isOpen: false,
-          isVisible: true,
-        }
-      });
+      // const {places} = results.response;
+      // const {center} = results.response.geocode.feature.geometry;
       console.log(results);
-      this.setState({places, markers, center});
+      // this.setState({places, markers, center});
     });
   }
 

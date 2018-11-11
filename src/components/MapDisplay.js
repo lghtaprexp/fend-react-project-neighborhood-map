@@ -24,13 +24,7 @@ export class MapDisplay extends React.Component {
   	    center={this.props.center}
   	    style={style}
   	    places={this.props.places}
-  	    markers={this.props.markers &&
-  	    	     this.props.markers.filter(marker => marker.isVisible)
-  	    	     .map((marker, index) => (
-  	    	        key={index}, 
-  	    	     	lat={marker.lat}, 
-  	    	     	lng={marker.lng} ))
-  	    	 } 
+  	     
   	    >
 
   	  </Map>

@@ -48,3 +48,11 @@ https://www.npmjs.com/package/google-maps-react
 https://developer.foursquare.com/docs/api/configuration/authentication
 https://developer.foursquare.com/docs/api/venues/search
 https://github.com/foursquare/react-foursquare
+
+
+https://maps.googleapis.com/maps/api/geocode/json?address=5145+E+Los+Angeles+Ave,+Simi+Valley,+CA&key=AIzaSyB7XNQZZPAKzsm7CkomnZA5jHGB4sHfeB4
+
+
+https://maps.googleapis.com/maps/api/geocode/json?address=530+E+Los+Angeles+Ave,+Simi+Valley,+CA&key=AIzaSyB7XNQZZPAKzsm7CkomnZA5jHGB4sHfeB4
+
+https://maps.googleapis.com/maps/api/geocode/json?address=757+California+Ave,+Simi+Valley,+CA&key=AIzaSyB7XNQZZPAKzsm7CkomnZA5jHGB4sHfeB4

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Herb & Spice Thai Cuisine",
+    "street": "1407 E Los Angeles Ave Ste U",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93065",
+    "url": "http://www.herbspicethaicuisine.com/",
+    "pos": {"lat":34.273561144192215,"lng":-118.77141667873728}
+  },
+  {
+    "name": "Thai Kitchen",
+    "street": "995 E Los Angeles Ave #6",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93065",
+    "url": "http://www.thaikitchensimi.com/index.html",
+    "pos": {"lat":34.272414404326796,"lng":-118.78025901566674}
+  },
+  {
+    "name": "Thai Noodles",
+    "street": "2090 1st St Ste E",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93065",
+    "url": "http://thainoodlessimi.com/",
+    "pos": {"lat":34.274016745518836,"lng":-118.77828942596514}
+  },
+  {
+    "name": "Exotic Thai Bistro",
+    "street": "1555 Simi Town Center Way #770",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93065",
+    "url": "https://www.coconutcrabrestaurant.com/",
+    "pos": {"lat":34.28422319448616,"lng":-118.76822205169744}
+  },
+  {
+    "name": "Simi Thai Cuisine",
+    "street": "2355 Tapo St #15",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93063",
+    "url": "http://www.simithai.com/",
+    "pos": {"lat":34.277975119421114,"lng":-118.71054427165342}
+  },
+  {
+    "name": "Rich & Richer",
+    "street": "2448 Stearns St (Cochran)",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93063",
+    "url": "",
+    "pos": {"lat":34.27965209737292,"lng":-118.69067633349496}
+  },
+  {
+    "name": "Thai House",
+    "street": "2311 Tapo St Ste B",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93063",
+    "url": "",
+    "pos": {"lat":34.27752730423532,"lng":-118.70942236188982}
+  },
+  {
+    "name": "Thai Cottage",
+    "street": "2139 Tapo St #117",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93063",
+    "url": "https://www.facebook.com/yumyumthaicuisine",
+    "pos": {"lat":34.27745099161083,"lng":-118.70929003994526}
+  }
+]
